@@ -1,8 +1,6 @@
-Spree Affiliate
-===============
-Allows customers to refer friends and earn store credit for each user who registers and/or orders.
+SpreeAffiliate
+==============
 
-You can also give store credit to the refered friends on signup and after first order.
 
 Installation
 ============
@@ -18,6 +16,6 @@ Installation
 
         rake spree_store_credits:install
         rake spree_affiliate:install
-
+  
 1. Run `rake db:migrate`
 

@@ -1,7 +1,8 @@
-# encoding: utf-8
 require 'rubygems'
 require 'rake'
 require 'rake/testtask'
+require 'bundler'
+Bundler::GemHelper.install_tasks
 
 desc "Default Task"
 task :default => [ :spec ]

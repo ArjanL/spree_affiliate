@@ -1,4 +1,4 @@
-UserRegistrationsController.class_eval do
+UsersController.class_eval do
   include AffiliateCredits
 
   after_filter :check_affiliate, :only => :create
