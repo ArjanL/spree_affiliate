@@ -1,0 +1,12 @@
+nl-NL:
+  affiliate_link: "Affiliate link"
+  affiliate_links_already_sent_to: "Already sent to:"
+  affiliate_program: "Affiliate Program"
+  affiliate_settings: "Affiliate settings"
+  manage_affiliate_settings: "Manage affiliate settings"
+  recipient_credit_on_purchase_amount: "Recipient credit amount (on first order)"
+  recipient_credit_on_register_amount: "Recipient credit amount (on register)"
+  registered: "geregistreerd"
+  send_affiliate_link: "Stuur affiliate link naar een vriend"
+  sender_credit_on_purchase_amount: "Sender credit amount (on recipient's first order)"
+  sender_credit_on_register_amount: "Sender credit amount (on recipient register)"
